@@ -1,5 +1,5 @@
 # encoding: UTF-8
-version = '1.1.2' #File.read(File.expand_path("../../SPREE_VERSION", __FILE__)).strip
+version = '1.1.3' #File.read(File.expand_path("../../SPREE_VERSION", __FILE__)).strip
 
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
